@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227779146655",
+    "firebase_url": "https://flutter-chat-edd1d.firebaseio.com",
+    "project_id": "flutter-chat-edd1d",
+    "storage_bucket": "flutter-chat-edd1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227779146655:android:2c8d3d9be6c634d7f8c3aa",
+        "android_client_info": {
+          "package_name": "com.example.chitchat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227779146655-q8pmqbln2ku7dsdci8m4fnilub5qiqk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJAgbmsvA-GHf1j-7eBh9vyAabDs3a5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227779146655-q8pmqbln2ku7dsdci8m4fnilub5qiqk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
