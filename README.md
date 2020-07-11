@@ -1,5 +1,5 @@
 # chitchat_app
-## A flutter app includes firebase authentication,storage,realtimeDB,cloud messaging . In this ,users can add chats and gets displayed .
+## A flutter app includes firebase authentication,storage,realtimeDB,cloud messaging . In this ,users can add chats and gets displayed and notified with notification.
 <table>
   <tr>
     <td>Create Account page</td>
